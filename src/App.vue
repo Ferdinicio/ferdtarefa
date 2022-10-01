@@ -58,12 +58,12 @@ export default defineComponent({
   padding: 1.25rem;
 }
 main {
-  --bg-primario: #baeaff;
+  --bg-primario:#baeaff;
   --texto-primario: #000;
 }
 main.modo-escuro {
   --bg-primario: #2a2a3d;
-  --texto-primario: #ddd;
+  --texto-primario: #7d7d7d;
 }
 .conteudo {
   background-color: var(--bg-primario);
