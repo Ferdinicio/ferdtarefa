@@ -36,7 +36,7 @@ export default defineComponent({
   padding: 1.25rem;
 }
 main {
-  --bg-primario:#baeaff;
+  --bg-primario:#ffffff;
   --texto-primario: #000;
 }
 main.modo-escuro {
